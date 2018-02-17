@@ -1,6 +1,6 @@
 {
   "name": "jsonapi-store-firebase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Firebase data store for jsonapi-server.",
   "main": "lib/firebaseHandler.js",
   "repository": {
@@ -35,7 +35,6 @@
     "blanket": "1.2.3",
     "coveralls": "2.13.1",
     "eslint": "4.7.2",
-    "firebase-server": "^0.12.0",
     "jsonapi-server": "3.2.1",
     "lokka": "1.7.0",
     "lokka-transport-http": "1.6.1",
