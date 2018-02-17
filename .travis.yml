@@ -1,0 +1,12 @@
+dist: trusty
+sudo: false
+language: node_js
+node_js:
+  - 4
+  - 6
+  - 8
+services:
+  - mongodb
+script: npm run ci
+notifications:
+  email: false

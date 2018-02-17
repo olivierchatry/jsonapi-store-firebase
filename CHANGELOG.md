@@ -1,0 +1,1 @@
+- 2018-02-17 - v1.0.0 filtering and pagination not implemented
