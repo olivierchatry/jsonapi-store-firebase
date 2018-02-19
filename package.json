@@ -1,6 +1,6 @@
 {
   "name": "jsonapi-store-firebase",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Firebase data store for jsonapi-server.",
   "main": "lib/firebaseHandler.js",
   "repository": {
