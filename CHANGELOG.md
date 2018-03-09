@@ -1,4 +1,5 @@
 
+- 2018-03-10 - v1.3.4 reverted way of finding out if an app already exists
 - 2018-03-10 - v1.3.3 user firebase-admin 5.10, change the way we detect if a firebase-app already exists ( if app.length instead of try ... catch )
 - 2018-02-20 - v1.3.2 create with id = update
 - 2018-02-20 - v1.3.1 firebase filtering is limited to "one" relationship
