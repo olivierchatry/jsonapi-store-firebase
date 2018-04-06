@@ -1,3 +1,4 @@
+- 2018-04-06 - v1.4.1 fixed bad handling of date when saving to firebase
 - 2018-04-06 - v1.4.0 fixed a big bug in search where descriminating on id alone would fail dues to the way we store entries.
 - 2018-03-10 - v1.3.4 reverted way of finding out if an app already exists
 - 2018-03-10 - v1.3.3 use firebase-admin 5.10, change the way we detect if a firebase-app already exists ( if app.length instead of try ... catch )
